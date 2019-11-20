@@ -63,11 +63,11 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/mjn/NumberToBinary.java</url>
-          <line>26</line>
-          <properties class="com.mjn.NumberToBinary" method="binaryGap">
+          <line>14</line>
+          <properties class="com.mjn.NumberToBinary" method="stringToArray">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
